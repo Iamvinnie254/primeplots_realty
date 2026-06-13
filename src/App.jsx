@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/layout/Layout";
 import Home from "./pages/home/Home";
@@ -7,8 +7,19 @@ import About from "./pages/about/About";
 import Blog from "./pages/blog/Blog";
 import Contact from "./pages/contact/Contact";
 import FAQ from "./pages/faq/FAQ";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
-function App() {
+const App = () => {
+  useEffect(() => {
+    AOS.init({
+      offset: 100,
+      duration: 900,
+      easing: "ease-in-out",
+      delay: 100,
+    });
+  }, []);
+
   return (
     <>
       <BrowserRouter>
@@ -25,6 +36,6 @@ function App() {
       </BrowserRouter>
     </>
   );
-}
+};
 
 export default App;
