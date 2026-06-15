@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Kitengela Greenview Plots",
+    "location": "Kitengela, Kajiado County",
+    "price": 1500000,
+    "size": "50x100 ft",
+    "type": "Residential",
+    "image": "../../src/assets/plot_photos/hero.jpg",
+    "status": "Available",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Athi River Commercial Frontage",
+    "location": "Athi River, Machakos County",
+    "price": 8500000,
+    "size": "100x100 ft",
+    "type": "Commercial",
+    "image": "../../src/assets/plot_photos/athi-river-1.jpg",
+    "status": "Available",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Konza Tech City Investment Plot",
+    "location": "Konza, Makueni County",
+    "price": 4200000,
+    "size": "1/8 Acre",
+    "type": "Investment",
+    "image": "../../src/assets/plot_photos/konza-1.jpg",
+    "status": "Selling Fast",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Ngong Hills Residential Plots",
+    "location": "Ngong, Kajiado County",
+    "price": 2300000,
+    "size": "50x100 ft",
+    "type": "Residential",
+    "image": "../../src/assets/plot_photos/ngong-1.jpg",
+    "status": "Available",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Naivasha Lakeview Investment Plot",
+    "location": "Naivasha, Nakuru County",
+    "price": 3000000,
+    "size": "1/4 Acre",
+    "type": "Investment",
+    "image": "../../src/assets/plot_photos/naivasha-1.jpg",
+    "status": "Limited",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Ruiru Commercial Plot",
+    "location": "Ruiru, Kiambu County",
+    "price": 6700000,
+    "size": "50x100 ft",
+    "type": "Commercial",
+    "image": "../../src/assets/plot_photos/ruiru-1.jpg",
+    "status": "Available",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "Kiserian Residential Estate Plot",
+    "location": "Kiserian, Kajiado County",
+    "price": 1800000,
+    "size": "50x100 ft",
+    "type": "Residential",
+    "image": "../../src/assets/plot_photos/kiserian-1.jpg",
+    "status": "Available",
+    "featured": false
+  }
+]
