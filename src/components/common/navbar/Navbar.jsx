@@ -17,7 +17,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="">
+    <div className=" sticky top-0 z-50">
       {/* top bar */}
       <div className=" bg-yellow-800 w-full hidden lg:block">
         <div className="top-bar flex justify-between items-center px-9 py-2 text-white text-sm max-width-6xl mx-auto">
@@ -36,7 +36,7 @@ const Navbar = () => {
       </div>
 
       {/* Navbar */}
-      <div className="navbar bg-black/20 shadow-md px-9 py-4 ">
+      <div className="navbar bg-white/90 shadow-md px-9 py-4 ">
         <div className="logo flex justify-between items-center max-w-7xl mx-auto">
           {/* LOGO */}
           <div>
