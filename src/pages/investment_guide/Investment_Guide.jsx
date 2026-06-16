@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import InvestmentBenefits from "../../components/investment/InvestmentBenefits";
 
 const Investment_Guide = () => {
   return (
-    <div>Investment_Guide</div>
-  )
-}
+    <>
+      <InvestmentBenefits />
+    </>
+  );
+};
 
-export default Investment_Guide
+export default Investment_Guide;

@@ -36,11 +36,11 @@ const Navbar = () => {
       </div>
 
       {/* Navbar */}
-      <div className="navbar bg-white/90 shadow-md px-9 py-4 ">
+      <div className="navbar bg-white/90 shadow-md lg:px-9 px-3 py-4 ">
         <div className="logo flex justify-between items-center max-w-7xl mx-auto">
           {/* LOGO */}
           <div>
-            <Link to={"/"} className="text-2xl font-bold text-yellow-800">
+            <Link to={"/"} className="lg:text-2xl text-lg font-bold text-yellow-800">
               PrimePlots Realty
             </Link>
           </div>
