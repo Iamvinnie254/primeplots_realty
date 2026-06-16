@@ -12,6 +12,7 @@ import Testimonials from "./pages/testimonials/Testimonials";
 import Investment_Guide from "./pages/investment_guide/Investment_Guide";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import ScrollToTop from "./utils/ScrollToTop";
 
 const App = () => {
   useEffect(() => {
@@ -26,6 +27,7 @@ const App = () => {
   return (
     <>
       <BrowserRouter>
+        <ScrollToTop />
         <Routes>
           <Route path={"/"} element={<Layout />}>
             <Route index element={<Home />} />
