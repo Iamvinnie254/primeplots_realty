@@ -5,6 +5,7 @@ import {
   FaCoins,
   FaArrowRight,
 } from "react-icons/fa";
+import Investment_Guide_Img from "../../assets/plot_photos/investment_guide_photo.png";
 
 const benefits = [
   {
@@ -33,7 +34,7 @@ const InvestmentBenefits = () => {
           className="relative rounded-2xl overflow-hidden h-80 sm:h-96 lg:h-full"
         >
           <img
-            src="/images/investment-land.jpg"
+            src={Investment_Guide_Img}
             alt="Wide open investment land plot at sunset"
             className="w-full h-full object-cover"
           />

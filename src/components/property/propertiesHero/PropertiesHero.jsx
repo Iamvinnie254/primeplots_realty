@@ -1,11 +1,12 @@
 import React from "react";
+import hero_photo from "../../../assets/plot_photos/property-hero.jpg";
 
 const PropertiesHero = () => {
   return (
     <section className="relative bg-black py-20 sm:py-28">
       <div className="absolute inset-0">
         <img
-          src="/images/properties-hero.jpg"
+          src={hero_photo}
           alt="Aerial view of subdivided land plots"
           className="w-full h-full object-cover opacity-40"
         />

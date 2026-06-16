@@ -6,7 +6,7 @@
     "price": 1500000,
     "size": "50x100 ft",
     "type": "Residential",
-    "image": "../../src/assets/plot_photos/hero.jpg",
+    "image": "../../src/assets/plot_photos/kitengela-greenview.png",
     "status": "Available",
     "featured": true
   },
@@ -17,7 +17,7 @@
     "price": 8500000,
     "size": "100x100 ft",
     "type": "Commercial",
-    "image": "../../src/assets/plot_photos/athi-river-1.jpg",
+    "image": "../../src/assets/plot_photos/athi-river-1.png",
     "status": "Available",
     "featured": true
   },

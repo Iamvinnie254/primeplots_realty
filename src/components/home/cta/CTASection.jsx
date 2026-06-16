@@ -1,15 +1,12 @@
 import React from "react";
 import { FaArrowRight, FaPhoneAlt } from "react-icons/fa";
+import CTA_img from "../../../assets/plot_photos/home-cta-photo.png";
 
 const CTASection = () => {
   return (
     <section className="relative bg-black py-16 sm:py-20 overflow-hidden">
       <div className="absolute inset-0 opacity-20">
-        <img
-          src="/images/cta-bg.jpg"
-          alt=""
-          className="w-full h-full object-cover"
-        />
+        <img src={CTA_img} alt="" className="w-full h-full object-cover" />
       </div>
 
       <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

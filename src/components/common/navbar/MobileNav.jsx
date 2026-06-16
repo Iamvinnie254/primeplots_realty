@@ -36,7 +36,7 @@ const MobileNav = ({ showMenu, toggleMenu }) => {
           <FaTimes
             size={26}
             onClick={toggleMenu}
-            className="cursor-pointer text-gray-700"
+            className="cursor-pointer text-gray-900"
           />
         </div>
 

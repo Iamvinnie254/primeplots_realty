@@ -59,7 +59,7 @@ const Hero = () => {
           </h1>
 
           <p className="hero-subtitle text-gray-200 text-base sm:text-lg mb-8 max-w-xl leading-relaxed">
-            PrimePlot Realty helps you discover residential, commercial, and
+            PrimePlots Realty helps you discover residential, commercial, and
             investment-grade plots backed by verified documentation and expert
             consultancy.
           </p>

@@ -40,7 +40,10 @@ const Navbar = () => {
         <div className="logo flex justify-between items-center max-w-7xl mx-auto">
           {/* LOGO */}
           <div>
-            <Link to={"/"} className="lg:text-2xl text-lg font-bold text-yellow-800">
+            <Link
+              to={"/"}
+              className="lg:text-2xl text-lg font-bold text-yellow-800"
+            >
               PrimePlots Realty
             </Link>
           </div>

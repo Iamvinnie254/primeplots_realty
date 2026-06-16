@@ -5,7 +5,7 @@
     "title": "How To Verify A Land Title Deed In Kenya Before You Buy",
     "category": "Legal Guide",
     "date": "May 12, 2026",
-    "image": "/images/blog/verify-title.jpg",
+    "image": "../src/assets/blog/title_deed.png",
     "excerpt": "A step-by-step guide to confirming a title deed is genuine and free of disputes before committing your money."
   },
   {
@@ -14,7 +14,7 @@
     "title": "5 High-Growth Areas To Invest In Land This Year",
     "category": "Investment",
     "date": "April 28, 2026",
-    "image": "/images/blog/growth-areas.jpg",
+    "image": "../src/assets/blog/growth-areas.png",
     "excerpt": "From Konza to Athi River, here are the corridors showing the strongest appreciation potential right now."
   },
   {
@@ -23,7 +23,7 @@
     "title": "7 Costly Mistakes First-Time Land Buyers Make",
     "category": "Buying Tips",
     "date": "April 15, 2026",
-    "image": "/images/blog/buying-mistakes.jpg",
+    "image": "../src/assets/blog/buying-mistakes.png",
     "excerpt": "Avoid these common pitfalls that cost new investors time, money, and sometimes their entire investment."
   },
   {
@@ -32,7 +32,7 @@
     "title": "Residential vs Commercial Plots: Which Should You Buy?",
     "category": "Investment",
     "date": "March 30, 2026",
-    "image": "/images/blog/residential-vs-commercial.jpg",
+    "image": "../src/assets/blog/residential-vs-commercial.png",
     "excerpt": "Breaking down the returns, risks, and use-cases of each plot type to help you decide where to put your money."
   },
   {
@@ -41,7 +41,7 @@
     "title": "Understanding Land Rates And Annual Charges In Kenya",
     "category": "Legal Guide",
     "date": "March 10, 2026",
-    "image": "/images/blog/land-rates.jpg",
+    "image": "../src/assets/blog/land-rates.png",
     "excerpt": "What land rates are, how they're calculated, and what happens if they go unpaid for too long."
   },
   {
@@ -50,7 +50,7 @@
     "title": "Smart Ways To Finance Your Next Land Purchase",
     "category": "Investment",
     "date": "February 22, 2026",
-    "image": "/images/blog/financing-land.jpg",
+    "image": "../src/assets/blog/financing-land.png",
     "excerpt": "From SACCOs to flexible installment plans, explore the most practical ways Kenyans are funding land purchases."
   }
 ]
