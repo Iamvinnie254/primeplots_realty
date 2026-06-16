@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Samuel Mwangi",
+    "role": "Founder & CEO",
+    "photo": "/images/team/samuel-mwangi.jpg",
+    "bio": "With over 15 years in real estate, Samuel founded PrimePlot Realty to make land investment transparent and accessible."
+  },
+  {
+    "id": 2,
+    "name": "Esther Achieng",
+    "role": "Head of Legal & Compliance",
+    "photo": "/images/team/esther-achieng.jpg",
+    "bio": "Esther leads title verification and ensures every transaction meets the highest legal standards."
+  },
+  {
+    "id": 3,
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "/images/team/james-kariuki.jpg",
+    "bio": "James helps clients identify high-growth plots aligned with their long-term financial goals."
+  },
+  {
+    "id": 4,
+    "name": "Linda Cherono",
+    "role": "Client Relations Manager",
+    "photo": "/images/team/linda-cherono.jpg",
+    "bio": "Linda ensures every client receives prompt, personalized support from inquiry through to ownership."
+  }
+]

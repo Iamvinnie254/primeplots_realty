@@ -1,12 +1,7 @@
 import React from "react";
-import InvestmentBenefits from "../../components/investment/InvestmentBenefits";
 
 const Investment_Guide = () => {
-  return (
-    <>
-      <InvestmentBenefits />
-    </>
-  );
+  return <></>;
 };
 
 export default Investment_Guide;
