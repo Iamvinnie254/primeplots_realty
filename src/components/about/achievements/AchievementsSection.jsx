@@ -31,7 +31,7 @@ const achievements = [
 
 const AchievementsSection = () => {
   return (
-    <section className="bg-yellow-800 py-16 sm:py-20">
+    <section className="bg-yellow-800 py-16 sm:py-20 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div data-aos="fade-up" className="text-center max-w-2xl mx-auto mb-12">
           <span className="text-yellow-100 font-semibold uppercase text-sm tracking-wide">

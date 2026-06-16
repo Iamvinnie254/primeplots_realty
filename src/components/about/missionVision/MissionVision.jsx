@@ -3,7 +3,7 @@ import { FaBullseye, FaEye } from "react-icons/fa";
 
 const MissionVision = () => {
   return (
-    <section className="bg-amber-50 py-16 sm:py-24">
+    <section className="bg-amber-50 py-16 sm:py-24 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 sm:grid-cols-2 gap-6">
         <div
           data-aos="fade-up"

@@ -30,7 +30,7 @@ const Hero = () => {
   return (
     <section
       ref={containerRef}
-      className="relative w-full min-h-[90vh] flex items-center bg-black"
+      className="relative w-full min-h-[90vh] flex items-center bg-black overflow-hidden"
     >
       {/* Background Image */}
       <div className="absolute inset-0">

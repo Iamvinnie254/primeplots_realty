@@ -27,7 +27,7 @@ const benefits = [
 
 const InvestmentBenefits = () => {
   return (
-    <section className="bg-amber-50 py-16 sm:py-24">
+    <section className="bg-amber-50 py-16 sm:py-24 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <div
           data-aos="fade-right"

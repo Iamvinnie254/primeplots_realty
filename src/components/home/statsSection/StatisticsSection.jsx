@@ -58,7 +58,7 @@ const StatisticsSection = () => {
   }, []);
 
   return (
-    <section className="bg-yellow-800 py-16">
+    <section className="bg-yellow-800 py-16 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div ref={gridRef} className="grid grid-cols-2 lg:grid-cols-4 gap-8">
           {stats.map((stat, i) => (

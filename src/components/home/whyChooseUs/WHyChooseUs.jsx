@@ -31,7 +31,7 @@ const reasons = [
 
 const WhyChooseUs = () => {
   return (
-    <section className="bg-white py-16 sm:py-24">
+    <section className="bg-white py-16 sm:py-24 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-2xl mx-auto mb-12" data-aos="fade-up">
           <span className="text-yellow-800 font-semibold uppercase text-sm tracking-wide">

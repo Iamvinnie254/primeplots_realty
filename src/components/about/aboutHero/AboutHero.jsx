@@ -3,7 +3,7 @@ import about_hero from "../../../assets/plot_photos/about-hero.jpg";
 
 const AboutHero = () => {
   return (
-    <section className="relative bg-black py-20 sm:py-28">
+    <section className="relative bg-black py-20 sm:py-28 overflow-hidden">
       <div className="absolute inset-0">
         <img
           src={about_hero}

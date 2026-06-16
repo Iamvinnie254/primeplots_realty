@@ -46,7 +46,7 @@ const PropertySearch = () => {
   };
 
   return (
-    <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 sm:-mt-12">
+    <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 sm:-mt-12 overflow-hidden">
       <form
         ref={containerRef}
         onSubmit={handleSearch}

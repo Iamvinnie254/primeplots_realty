@@ -40,7 +40,10 @@ const FeaturedProperties = () => {
   }, { scope: sectionRef });
 
   return (
-    <section ref={sectionRef} className="bg-stone-50 py-16 sm:py-24">
+    <section
+      ref={sectionRef}
+      className="bg-stone-50 py-16 sm:py-24 overflow-hidden"
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="featured-heading flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-10">
           <div>
