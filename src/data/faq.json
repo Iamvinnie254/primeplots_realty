@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Buying Process",
+    "question": "How do I start the process of buying a plot with PrimePlot Realty?",
+    "answer": "Simply browse our Properties page or contact our team directly. A consultant will guide you through plot selection, site visits, due diligence, and the final transfer process from start to finish."
+  },
+  {
+    "id": 2,
+    "category": "Buying Process",
+    "question": "Can I visit a plot before committing to buy?",
+    "answer": "Yes, we strongly encourage it. We arrange site visits for every serious inquiry so you can see the exact plot, its boundaries, and surrounding area before making any payment."
+  },
+  {
+    "id": 3,
+    "category": "Legal & Documentation",
+    "question": "How do you verify that a title deed is genuine?",
+    "answer": "Every plot we list undergoes an official search at the relevant Lands Registry, confirming ownership, boundaries, and any existing encumbrances before it's published on our site."
+  },
+  {
+    "id": 4,
+    "category": "Legal & Documentation",
+    "question": "Will I get the title deed immediately after payment?",
+    "answer": "Title transfer follows standard legal timelines, which can take a few weeks depending on the registry's processing time. Our legal team handles the entire transfer process and keeps you updated throughout."
+  },
+  {
+    "id": 5,
+    "category": "Payment & Financing",
+    "question": "Do you offer flexible payment plans?",
+    "answer": "Yes, we offer installment plans on select plots to make land ownership more accessible. Speak with a consultant to find a plan that fits your budget and timeline."
+  },
+  {
+    "id": 6,
+    "category": "Payment & Financing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept bank transfers, mobile money payments, and SACCO-financed payments. All transactions are documented with official receipts and acknowledgments."
+  },
+  {
+    "id": 7,
+    "category": "Investment",
+    "question": "Is land really a good investment compared to other assets?",
+    "answer": "Land in high-growth corridors has historically appreciated steadily and offers a tangible, finite asset that isn't subject to the same volatility as stocks or other markets. Read our Investment Guide for a deeper breakdown."
+  },
+  {
+    "id": 8,
+    "category": "Investment",
+    "question": "How long should I hold a plot before reselling for profit?",
+    "answer": "While every market differs, most clients see meaningful appreciation after 3 to 5 years, particularly in areas experiencing active infrastructure development."
+  },
+  {
+    "id": 9,
+    "category": "After Purchase",
+    "question": "Do you help with fencing or developing the land after purchase?",
+    "answer": "While we don't directly offer construction services, we can connect you with trusted partners for fencing, surveying, and development once your purchase is complete."
+  },
+  {
+    "id": 10,
+    "category": "After Purchase",
+    "question": "What happens if there's a dispute over my plot after I buy it?",
+    "answer": "Because every plot undergoes thorough verification before listing, disputes are extremely rare. In the unlikely event one arises, our legal team will support you in resolving it."
+  }
+]

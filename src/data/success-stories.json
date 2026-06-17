@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Peter Omondi",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "title": "From One Plot To A Five-Acre Portfolio",
+    "summary": "Peter bought his first quarter-acre plot in Kitengela in 2019. Three years later, he reinvested the appreciated value into four more plots across two counties.",
+    "purchaseYear": "2019",
+    "plotsOwned": 5,
+    "roi": "240%"
+  },
+  {
+    "id": 2,
+    "name": "Mary Wambui",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "title": "Built A Rental Income Stream From Commercial Land",
+    "summary": "Mary purchased a commercial plot in Ruiru and developed rental units, now generating consistent monthly income well above her initial investment.",
+    "purchaseYear": "2021",
+    "plotsOwned": 2,
+    "roi": "180%"
+  },
+  {
+    "id": 3,
+    "name": "Joseph Kamau",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "title": "Secured His Children's University Fund Through Land",
+    "summary": "Joseph invested in a Konza plot specifically to fund his children's education. The plot's appreciation has already covered two years of tuition.",
+    "purchaseYear": "2020",
+    "plotsOwned": 1,
+    "roi": "150%"
+  }
+]

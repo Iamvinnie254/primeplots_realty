@@ -13,6 +13,7 @@ import Investment_Guide from "./pages/investment_guide/Investment_Guide";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import ScrollToTop from "./utils/ScrollToTop";
+import BlogDetails from "./pages/blog/BlogDetails";
 
 const App = () => {
   useEffect(() => {
@@ -34,6 +35,7 @@ const App = () => {
             <Route path="/about" element={<About />} />
             <Route path="/properties" element={<Properties />} />
             <Route path="/blog" element={<Blog />} />
+            <Route path="/blog/:slug" element={<BlogDetails />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/faq" element={<FAQ />} />
             <Route path="/testimonials" element={<Testimonials />} />
