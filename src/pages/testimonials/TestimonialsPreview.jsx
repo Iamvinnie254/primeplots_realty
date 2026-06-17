@@ -1,7 +1,7 @@
 import React from "react";
 import { FaQuoteLeft, FaStar, FaArrowRight } from "react-icons/fa";
 import testimonialsData from "../../data/testimonials.json";
-
+import { Link } from "react-router-dom";
 const TestimonialsPreview = () => {
   const preview = testimonialsData.slice(0, 3);
 
@@ -52,13 +52,13 @@ const TestimonialsPreview = () => {
         </div>
 
         <div className="flex justify-center mt-12">
-          <a
-            href="/testimonials"
+          <Link
+            to={"testimonials"}
             className="group inline-flex items-center gap-2 text-yellow-800 font-semibold hover:text-yellow-700 transition-colors duration-300"
           >
             View All Testimonials
             <FaArrowRight className="transition-transform duration-300 group-hover:translate-x-1" />
-          </a>
+          </Link>
         </div>
       </div>
     </section>

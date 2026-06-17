@@ -5,6 +5,7 @@ import { useGSAP } from "@gsap/react";
 import { FaArrowRight } from "react-icons/fa";
 import PropertyCard from "../../property/propertyCard/PropertyCard";
 import propertiesData from "../../../data/properties.json";
+import { Link } from "react-router-dom";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -69,13 +70,13 @@ const FeaturedProperties = () => {
         </div>
 
         <div className="flex justify-center mt-12">
-          <a
-            href="/properties"
+          <Link
+            to={"/properties"}
             className="group inline-flex items-center gap-2 border-2 border-yellow-800 text-yellow-800 font-semibold px-6 py-3 rounded-lg hover:bg-yellow-800 hover:text-white transition-colors duration-300"
           >
             View All Properties
             <FaArrowRight className="transition-transform duration-300 group-hover:translate-x-1" />
-          </a>
+          </Link>
         </div>
       </div>
     </section>

@@ -3,6 +3,7 @@ import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";
 import { FaArrowRight, FaPlay } from "react-icons/fa";
 const hero_photo = "/assets/plot_photos/hero.jpg";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   const containerRef = useRef(null);
@@ -65,21 +66,21 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-wrap items-center gap-4">
-            <a
-              href="/properties"
+            <Link
+              to={"/properties"}
               className="hero-cta group inline-flex items-center gap-2 bg-yellow-800 hover:bg-yellow-700 text-white font-semibold px-6 py-3 rounded-lg transition-colors duration-300"
             >
               Explore Properties
               <FaArrowRight className="transition-transform duration-300 group-hover:translate-x-1" />
-            </a>
+            </Link>
 
-            <a
-              href="/about"
+            <Link
+              to={"/about"}
               className="hero-cta group inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 border border-white/30 text-white font-semibold px-6 py-3 rounded-lg backdrop-blur-sm transition-colors duration-300"
             >
               <FaPlay className="text-xs" />
               How It Works
-            </a>
+            </Link>
           </div>
         </div>
       </div>
