@@ -1,5 +1,5 @@
 import React from "react";
-import Consulting from "../../assets/contact_page/consulting.jpg";
+const Consulting = "/assets/contact_page/consulting.jpg";
 
 const ContactHero = () => {
   return (

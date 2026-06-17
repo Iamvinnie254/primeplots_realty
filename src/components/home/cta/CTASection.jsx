@@ -1,6 +1,6 @@
 import React from "react";
 import { FaArrowRight, FaPhoneAlt } from "react-icons/fa";
-import CTA_img from "../../../assets/plot_photos/home-cta-photo.png";
+const CTA_img = "/assets/plot_photos/home-cta-photo.png";
 
 const CTASection = () => {
   return (

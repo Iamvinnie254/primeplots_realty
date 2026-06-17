@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";
 import { FaArrowRight, FaPlay } from "react-icons/fa";
-import hero_photo from "../../../assets/plot_photos/hero.jpg";
+const hero_photo = "/assets/plot_photos/hero.jpg";
 
 const Hero = () => {
   const containerRef = useRef(null);

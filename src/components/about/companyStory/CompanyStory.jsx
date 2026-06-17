@@ -1,5 +1,5 @@
 import React from "react";
-import Office_Team from "../../../assets/staff_photos/office_and_team_working.png";
+const Office_Team = "/assets/staff_photos/office_and_team_working.png";
 
 const CompanyStory = () => {
   return (

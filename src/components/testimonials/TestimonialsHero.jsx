@@ -1,5 +1,5 @@
 import React from "react";
-import CelebratingClients from "../../assets/testimonials/celebrating.jpg";
+const CelebratingClients = "/assets/testimonials/celebrating.jpg";
 
 const TestimonialsHero = () => {
   return (

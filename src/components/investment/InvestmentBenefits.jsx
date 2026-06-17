@@ -5,7 +5,7 @@ import {
   FaCoins,
   FaArrowRight,
 } from "react-icons/fa";
-import Investment_Guide_Img from "../../assets/plot_photos/investment_guide_photo.png";
+const Investment_Guide_Img = "/assets/plot_photos/investment_guide_photo.png";
 
 const benefits = [
   {

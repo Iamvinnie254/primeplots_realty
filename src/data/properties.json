@@ -6,14 +6,14 @@
     "price": 1500000,
     "size": "50x100 ft",
     "type": "Residential",
-    "image": "../../src/assets/plot_photos/kitengela-greenview.png",
+    "image": "/assets/plot_photos/kitengela-greenview.png",
     "status": "Available",
     "featured": true,
      "gallery": [
-    "../../src/assets/plot_photos/kitengela-greenview.png",
-    "../../src/assets/plot_photos/kitengela-2.jpg",
-    "../../src/assets/plot_photos/kitengela-3.jpg",
-    "../../src/assets/plot_photos/kitengela-4.jpg"
+    "/assets/plot_photos/kitengela-greenview.png",
+    "/assets/plot_photos/kitengela-2.jpg",
+    "/assets/plot_photos/kitengela-3.jpg",
+    "/assets/plot_photos/kitengela-4.jpg"
   ],
   "description": "A serene residential plot in the fast-growing Kitengela corridor, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
   "amenities": [
@@ -28,7 +28,7 @@
   "agent": {
     "name": "James Kariuki",
     "role": "Lead Investment Consultant",
-    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "photo": "/assets/staff_photos/testimonials.png",
     "phone": "+254700000000"
   }
   },
@@ -39,14 +39,14 @@
     "price": 8500000,
     "size": "100x100 ft",
     "type": "Commercial",
-    "image": "../../src/assets/plot_photos/athi-river-1.png",
+    "image": "/assets/plot_photos/athi-river-1.png",
     "status": "Available",
     "featured": true,
      "gallery": [
-    "../../src/assets/plot_photos/athi-river-1.png",
-    "../../src/assets/plot_photos/athi-river-2.jpg",
-    "../../src/assets/plot_photos/athi-river-3.jpg",
-    "../../src/assets/plot_photos/athi-river-4.jpg"
+    "/assets/plot_photos/athi-river-1.png",
+    "/assets/plot_photos/athi-river-2.jpg",
+    "/assets/plot_photos/athi-river-3.jpg",
+    "/assets/plot_photos/athi-river-4.jpg"
   ],
   "description": "A serene residential plot in the fast-growing Athi River corridor, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
   "amenities": [
@@ -61,7 +61,7 @@
   "agent": {
     "name": "James Kariuki",
     "role": "Lead Investment Consultant",
-    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "photo": "/assets/staff_photos/testimonials.png",
     "phone": "+254700000000"
   }
   },
@@ -72,14 +72,14 @@
     "price": 4200000,
     "size": "1/8 Acre",
     "type": "Investment",
-    "image": "../../src/assets/plot_photos/konza-1.jpg",
+    "image": "/assets/plot_photos/konza-1.jpg",
     "status": "Selling Fast",
     "featured": true,
      "gallery": [
-    "../../src/assets/plot_photos/konza-1.jpg",
-    "../../src/assets/plot_photos/konza-2.jpg",
-    "../../src/assets/plot_photos/konza-3.jpg",
-    "../../src/assets/plot_photos/konza-4.jpg"
+    "/assets/plot_photos/konza-1.jpg",
+    "/assets/plot_photos/konza-2.jpg",
+    "/assets/plot_photos/konza-3.jpg",
+    "/assets/plot_photos/konza-4.jpg"
   ],
   "description": "A serene residential plot in the fast-growing Konza corridor, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
   "amenities": [
@@ -94,7 +94,7 @@
   "agent": {
     "name": "James Kariuki",
     "role": "Lead Investment Consultant",
-    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "photo": "/assets/staff_photos/testimonials.png",
     "phone": "+254700000000"
   }
   },
@@ -105,14 +105,14 @@
     "price": 2300000,
     "size": "50x100 ft",
     "type": "Residential",
-    "image": "../../src/assets/plot_photos/ngong-1.jpg",
+    "image": "/assets/plot_photos/ngong-1.jpg",
     "status": "Available",
     "featured": true,
      "gallery": [
-    "../../src/assets/plot_photos/ngong-1.jpg",
-    "../../src/assets/plot_photos/ngong-2.jpg",
-    "../../src/assets/plot_photos/ngong-3.jpg",
-    "../../src/assets/plot_photos/ngong-4.jpg"
+    "/assets/plot_photos/ngong-1.jpg",
+    "/assets/plot_photos/ngong-2.jpg",
+    "/assets/plot_photos/ngong-3.jpg",
+    "/assets/plot_photos/ngong-4.jpg"
   ],
   "description": "A serene residential plot in the fast-growing Ngong Hills area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
   "amenities": [
@@ -127,7 +127,7 @@
   "agent": {
     "name": "James Kariuki",
     "role": "Lead Investment Consultant",
-    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "photo": "/assets/staff_photos/testimonials.png",
     "phone": "+254700000000"
   }
   },
@@ -138,14 +138,14 @@
     "price": 3000000,
     "size": "1/4 Acre",
     "type": "Investment",
-    "image": "../../src/assets/plot_photos/naivasha-1.jpg",
+    "image": "/assets/plot_photos/naivasha-1.jpg",
     "status": "Limited",
     "featured": true,
      "gallery": [
-    "../../src/assets/plot_photos/naivasha-1.jpg",
-    "../../src/assets/plot_photos/naivasha-2.jpg",
-    "../../src/assets/plot_photos/naivasha-3.jpg",
-    "../../src/assets/plot_photos/naivasha-4.jpg"
+    "/assets/plot_photos/naivasha-1.jpg",
+    "/assets/plot_photos/naivasha-2.jpg",
+    "/assets/plot_photos/naivasha-3.jpg",
+    "/assets/plot_photos/naivasha-4.jpg"
   ],
   "description": "A serene residential plot in the fast-growing Naivasha area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
   "amenities": [
@@ -160,7 +160,7 @@
   "agent": {
     "name": "James Kariuki",
     "role": "Lead Investment Consultant",
-    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "photo": "/assets/staff_photos/testimonials.png",
     "phone": "+254700000000"
   }
   },
@@ -171,14 +171,14 @@
     "price": 6700000,
     "size": "50x100 ft",
     "type": "Commercial",
-    "image": "../../src/assets/plot_photos/ruiru-1.jpg",
+    "image": "/assets/plot_photos/ruiru-1.jpg",
     "status": "Available",
     "featured": true,
      "gallery": [
-    "../../src/assets/plot_photos/ruiru-1.jpg",
-    "../../src/assets/plot_photos/ruiru-2.jpg",
-    "../../src/assets/plot_photos/ruiru-3.jpg",
-    "../../src/assets/plot_photos/ruiru-4.jpg"
+    "/assets/plot_photos/ruiru-1.jpg",
+    "/assets/plot_photos/ruiru-2.jpg",
+    "/assets/plot_photos/ruiru-3.jpg",
+    "/assets/plot_photos/ruiru-4.jpg"
   ],
   "description": "A serene residential plot in the fast-growing Ruiru area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
   "amenities": [
@@ -193,7 +193,7 @@
   "agent": {
     "name": "James Kariuki",
     "role": "Lead Investment Consultant",
-    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "photo": "/assets/staff_photos/testimonials.png",
     "phone": "+254700000000"
   }
   },
@@ -204,14 +204,14 @@
     "price": 1800000,
     "size": "50x100 ft",
     "type": "Residential",
-    "image": "../../src/assets/plot_photos/kiserian-1.jpg",
+    "image": "/assets/plot_photos/kiserian-1.jpg",
     "status": "Available",
     "featured": false,
      "gallery": [
-    "../../src/assets/plot_photos/kiserian-1.jpg",
-    "../../src/assets/plot_photos/kiserian-2.jpg",
-    "../../src/assets/plot_photos/kiserian-3.jpg",
-    "../../src/assets/plot_photos/kiserian-4.jpg"
+    "/assets/plot_photos/kiserian-1.jpg",
+    "/assets/plot_photos/kiserian-2.jpg",
+    "/assets/plot_photos/kiserian-3.jpg",
+    "/assets/plot_photos/kiserian-4.jpg"
   ],
   "description": "A serene residential plot in the fast-growing Kiserian area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
   "amenities": [
@@ -226,7 +226,7 @@
   "agent": {
     "name": "James Kariuki",
     "role": "Lead Investment Consultant",
-    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "photo": "/assets/staff_photos/testimonials.png",
     "phone": "+254700000000"
   }
   }

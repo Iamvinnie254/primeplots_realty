@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Grace Wanjiru",
-    "avatar": "../../src/assets/staff_photos/testimonials.png",
+    "avatar": "/assets/staff_photos/testimonials.png",
     "rating": 5,
     "review": "ShambaLako Ventures made buying my first plot in Kitengela stress-free. The title deed verification gave me real peace of mind.",
     "location": "Kitengela",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Brian Otieno",
-    "avatar": "../../src/assets/staff_photos/testimonials.png",
+    "avatar": "/assets/staff_photos/testimonials.png",
     "rating": 5,
     "review": "I invested in a commercial plot in Ruiru on their advice and the value has already grown significantly. Excellent consultancy.",
     "location": "Ruiru",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Amina Hassan",
-    "avatar": "../../src/assets/staff_photos/testimonials.png",
+    "avatar": "/assets/staff_photos/testimonials.png",
     "rating": 4,
     "review": "The flexible payment plan let me start investing without straining my budget. The team was patient and answered every question.",
     "location": "Athi River",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Kevin Mwangi",
-    "avatar": "../../src/assets/staff_photos/testimonials.png",
+    "avatar": "/assets/staff_photos/testimonials.png",
     "rating": 5,
     "review": "From the site visit to the final paperwork, everything was transparent. I now own two plots through ShambaLako Ventures.",
     "location": "Ngong",
@@ -40,7 +40,7 @@
   {
     "id": 5,
     "name": "Faith Njoki",
-    "avatar": "../../src/assets/staff_photos/testimonials.png",
+    "avatar": "/assets/staff_photos/testimonials.png",
     "rating": 5,
     "review": "Their advisors helped me choose a plot in Konza specifically for long-term appreciation. Already seeing the value rise.",
     "location": "Konza",
@@ -51,7 +51,7 @@
   {
     "id": 6,
     "name": "Daniel Kiptoo",
-    "avatar": "../../src/assets/staff_photos/testimonials.png",
+    "avatar": "/assets/staff_photos/testimonials.png",
     "rating": 4,
     "review": "Professional, responsive, and honest about the pros and cons of each location. That honesty is rare in this industry.",
     "location": "Naivasha",
