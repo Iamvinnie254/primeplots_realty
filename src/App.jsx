@@ -8,14 +8,18 @@ import Blog from "./pages/blog/Blog";
 import Contact from "./pages/contact/Contact";
 import FAQ from "./pages/faq/FAQ";
 import Properties from "./pages/properties/Properties";
+import PropertyDetails from "./pages/properties/PropertyDetails"
 import Testimonials from "./pages/testimonials/Testimonials";
 import Investment_Guide from "./pages/investment_guide/Investment_Guide";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import ScrollToTop from "./utils/ScrollToTop";
 import BlogDetails from "./pages/blog/BlogDetails";
+import LoadingScreen from "./components/common/LoadingScreen";
+
 
 const App = () => {
+  const [loading, setLoading] = useState(true);
   useEffect(() => {
     AOS.init({
       offset: 100,
@@ -24,6 +28,13 @@ const App = () => {
       delay: 100,
     });
   }, []);
+
+  useEffect(() => {
+    const timer = setTimeout(() => setLoading(false), 1200);
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (loading) return <LoadingScreen />;
 
   return (
     <>
@@ -34,6 +45,7 @@ const App = () => {
             <Route index element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/properties" element={<Properties />} />
+            <Route path="/properties/:id" element={<PropertyDetails />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/blog/:slug" element={<BlogDetails />} />
             <Route path="/contact" element={<Contact />} />

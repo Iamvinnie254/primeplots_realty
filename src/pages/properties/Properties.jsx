@@ -46,7 +46,7 @@ const Properties = () => {
     setFilters({ type: "", location: "", budget: "", sort: "" });
 
   return (
-    <div>
+    <>
       <PropertiesHero />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 space-y-10">
         <PropertyFilters
@@ -59,7 +59,7 @@ const Properties = () => {
         <PropertyMap location="Kenya" />
         <PropertyCTA />
       </div>
-    </div>
+    </>
   );
 };
 

@@ -6,12 +6,12 @@ import SuccessStories from "../../components/testimonials/SuccessStories";
 
 const Testimonials = () => {
   return (
-    <div>
+    <>
       <TestimonialsHero />
       <VideoTestimonials />
       <ClientReviews />
       <SuccessStories />
-    </div>
+    </>
   );
 };
 

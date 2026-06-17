@@ -8,7 +8,29 @@
     "type": "Residential",
     "image": "../../src/assets/plot_photos/kitengela-greenview.png",
     "status": "Available",
-    "featured": true
+    "featured": true,
+     "gallery": [
+    "../../src/assets/plot_photos/kitengela-greenview.png",
+    "../../src/assets/plot_photos/kitengela-2.jpg",
+    "../../src/assets/plot_photos/kitengela-3.jpg",
+    "../../src/assets/plot_photos/kitengela-4.jpg"
+  ],
+  "description": "A serene residential plot in the fast-growing Kitengela corridor, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
+  "amenities": [
+    "Electricity connection nearby",
+    "All-weather access road",
+    "Piped water available",
+    "Gated community security",
+    "10 minutes to Kitengela town"
+  ],
+  "titleStatus": "Ready Title Deed",
+  "coordinates": { "lat": -1.4744, "lng": 36.9573 },
+  "agent": {
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "phone": "+254700000000"
+  }
   },
   {
     "id": 2,
@@ -19,7 +41,29 @@
     "type": "Commercial",
     "image": "../../src/assets/plot_photos/athi-river-1.png",
     "status": "Available",
-    "featured": true
+    "featured": true,
+     "gallery": [
+    "../../src/assets/plot_photos/athi-river-1.png",
+    "../../src/assets/plot_photos/athi-river-2.jpg",
+    "../../src/assets/plot_photos/athi-river-3.jpg",
+    "../../src/assets/plot_photos/athi-river-4.jpg"
+  ],
+  "description": "A serene residential plot in the fast-growing Athi River corridor, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
+  "amenities": [
+    "Electricity connection nearby",
+    "All-weather access road",
+    "Piped water available",
+    "Gated community security",
+    "10 minutes to Athi River town"
+  ],
+  "titleStatus": "Ready Title Deed",
+  "coordinates": { "lat": -1.4744, "lng": 36.9573 },
+  "agent": {
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "phone": "+254700000000"
+  }
   },
   {
     "id": 3,
@@ -30,7 +74,29 @@
     "type": "Investment",
     "image": "../../src/assets/plot_photos/konza-1.jpg",
     "status": "Selling Fast",
-    "featured": true
+    "featured": true,
+     "gallery": [
+    "../../src/assets/plot_photos/konza-1.jpg",
+    "../../src/assets/plot_photos/konza-2.jpg",
+    "../../src/assets/plot_photos/konza-3.jpg",
+    "../../src/assets/plot_photos/konza-4.jpg"
+  ],
+  "description": "A serene residential plot in the fast-growing Konza corridor, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
+  "amenities": [
+    "Electricity connection nearby",
+    "All-weather access road",
+    "Piped water available",
+    "Gated community security",
+    "10 minutes to Konza town"
+  ],
+  "titleStatus": "Ready Title Deed",
+  "coordinates": { "lat": -1.4744, "lng": 36.9573 },
+  "agent": {
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "phone": "+254700000000"
+  }
   },
   {
     "id": 4,
@@ -41,7 +107,29 @@
     "type": "Residential",
     "image": "../../src/assets/plot_photos/ngong-1.jpg",
     "status": "Available",
-    "featured": true
+    "featured": true,
+     "gallery": [
+    "../../src/assets/plot_photos/ngong-1.jpg",
+    "../../src/assets/plot_photos/ngong-2.jpg",
+    "../../src/assets/plot_photos/ngong-3.jpg",
+    "../../src/assets/plot_photos/ngong-4.jpg"
+  ],
+  "description": "A serene residential plot in the fast-growing Ngong Hills area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
+  "amenities": [
+    "Electricity connection nearby",
+    "All-weather access road",
+    "Piped water available",
+    "Gated community security",
+    "10 minutes to Ngong town"
+  ],
+  "titleStatus": "Ready Title Deed",
+  "coordinates": { "lat": -1.4744, "lng": 36.9573 },
+  "agent": {
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "phone": "+254700000000"
+  }
   },
   {
     "id": 5,
@@ -52,7 +140,29 @@
     "type": "Investment",
     "image": "../../src/assets/plot_photos/naivasha-1.jpg",
     "status": "Limited",
-    "featured": true
+    "featured": true,
+     "gallery": [
+    "../../src/assets/plot_photos/naivasha-1.jpg",
+    "../../src/assets/plot_photos/naivasha-2.jpg",
+    "../../src/assets/plot_photos/naivasha-3.jpg",
+    "../../src/assets/plot_photos/naivasha-4.jpg"
+  ],
+  "description": "A serene residential plot in the fast-growing Naivasha area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
+  "amenities": [
+    "Electricity connection nearby",
+    "All-weather access road",
+    "Piped water available",
+    "Gated community security",
+    "10 minutes to Naivasha town"
+  ],
+  "titleStatus": "Ready Title Deed",
+  "coordinates": { "lat": -1.4744, "lng": 36.9573 },
+  "agent": {
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "phone": "+254700000000"
+  }
   },
   {
     "id": 6,
@@ -63,7 +173,29 @@
     "type": "Commercial",
     "image": "../../src/assets/plot_photos/ruiru-1.jpg",
     "status": "Available",
-    "featured": true
+    "featured": true,
+     "gallery": [
+    "../../src/assets/plot_photos/ruiru-1.jpg",
+    "../../src/assets/plot_photos/ruiru-2.jpg",
+    "../../src/assets/plot_photos/ruiru-3.jpg",
+    "../../src/assets/plot_photos/ruiru-4.jpg"
+  ],
+  "description": "A serene residential plot in the fast-growing Ruiru area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
+  "amenities": [
+    "Electricity connection nearby",
+    "All-weather access road",
+    "Piped water available",
+    "Gated community security",
+    "10 minutes to Ruiru town"
+  ],
+  "titleStatus": "Ready Title Deed",
+  "coordinates": { "lat": -1.4744, "lng": 36.9573 },
+  "agent": {
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "phone": "+254700000000"
+  }
   },
   {
     "id": 7,
@@ -74,6 +206,28 @@
     "type": "Residential",
     "image": "../../src/assets/plot_photos/kiserian-1.jpg",
     "status": "Available",
-    "featured": false
+    "featured": false,
+     "gallery": [
+    "../../src/assets/plot_photos/kiserian-1.jpg",
+    "../../src/assets/plot_photos/kiserian-2.jpg",
+    "../../src/assets/plot_photos/kiserian-3.jpg",
+    "../../src/assets/plot_photos/kiserian-4.jpg"
+  ],
+  "description": "A serene residential plot in the fast-growing Kiserian area, ideal for building a family home or holding for long-term appreciation. The area benefits from improving road access and proximity to schools and shopping centers.",
+  "amenities": [
+    "Electricity connection nearby",
+    "All-weather access road",
+    "Piped water available",
+    "Gated community security",
+    "10 minutes to Kiserian town"
+  ],
+  "titleStatus": "Ready Title Deed",
+  "coordinates": { "lat": -1.4744, "lng": 36.9573 },
+  "agent": {
+    "name": "James Kariuki",
+    "role": "Lead Investment Consultant",
+    "photo": "../../src/assets/staff_photos/testimonials.png",
+    "phone": "+254700000000"
+  }
   }
 ]
