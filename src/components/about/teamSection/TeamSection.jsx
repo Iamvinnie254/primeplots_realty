@@ -11,7 +11,7 @@ const TeamSection = () => {
             Meet The Team
           </span>
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mt-2">
-            The People Behind PrimePlot
+            The People Behind ShambaLako Ventures
           </h2>
         </div>
 

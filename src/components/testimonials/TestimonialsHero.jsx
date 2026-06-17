@@ -32,7 +32,7 @@ const TestimonialsHero = () => {
           className="text-gray-300 text-base sm:text-lg max-w-xl mx-auto"
         >
           Hear directly from clients who turned land into lasting wealth with
-          PrimePlot Realty.
+          ShambaLako Ventures.
         </p>
       </div>
     </section>

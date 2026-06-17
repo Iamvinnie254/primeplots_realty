@@ -11,19 +11,19 @@ const infoItems = [
   {
     icon: <FaPhoneAlt />,
     label: "Call Us",
-    value: "+254 700 000 000",
-    href: "tel:+254700000000",
+    value: "+254 702 387 039",
+    href: "tel:+254702387039",
   },
   {
     icon: <FaEnvelope />,
     label: "Email Us",
-    value: "info@primeplotsrealty.com",
-    href: "mailto:info@primeplotsrealty.com",
+    value: "info@shambalakoventures.com",
+    href: "mailto:info@shambalakoventures.com",
   },
   {
     icon: <FaMapMarkerAlt />,
     label: "Visit Us",
-    value: "Westlands Business Park, Nairobi, Kenya",
+    value: "Westlands, Nairobi, Kenya",
     href: null,
   },
   {

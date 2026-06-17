@@ -51,7 +51,7 @@ const FeaturedProperties = () => {
               Featured Listings
             </span>
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mt-2">
-              Premium Plots Handpicked For You
+              ShambaLako Ventures Handpicked For You
             </h2>
           </div>
           <p className="text-gray-700 max-w-md">

@@ -11,7 +11,7 @@ const CompanyStory = () => {
         >
           <img
             src={Office_Team}
-            alt="PrimePlot Realty office and team at work"
+            alt="ShambaLako Ventures office and team at work"
             className="w-full h-full object-cover"
           />
         </div>
@@ -25,7 +25,7 @@ const CompanyStory = () => {
           </h2>
           <div className="space-y-4 text-gray-700 leading-relaxed">
             <p>
-              PrimePlot Realty began in 2013 with a single mission: make land
+              ShambaLako Ventures began in 2013 with a single mission: make land
               ownership simple, transparent, and accessible to every Kenyan,
               regardless of their starting point.
             </p>

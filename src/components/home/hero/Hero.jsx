@@ -54,12 +54,12 @@ const Hero = () => {
               Secure Your Future
             </span>
             <span className="hero-title-line block overflow-hidden text-yellow-600">
-              With Prime Land Plots
+              With ShambaLako Ventures
             </span>
           </h1>
 
           <p className="hero-subtitle text-gray-200 text-base sm:text-lg mb-8 max-w-xl leading-relaxed">
-            PrimePlots Realty helps you discover residential, commercial, and
+            ShambaLako Ventures helps you discover residential, commercial, and
             investment-grade plots backed by verified documentation and expert
             consultancy.
           </p>

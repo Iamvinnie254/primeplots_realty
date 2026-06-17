@@ -23,14 +23,14 @@ const Navbar = () => {
         <div className="top-bar flex justify-between items-center px-9 py-2 text-white text-sm max-width-6xl mx-auto">
           <p className="flex gap-2 items-center">
             {" "}
-            <FaSearchLocation /> Utalii House, 2nd Floor, Moi Avenue, Nairobi,
+            <FaSearchLocation /> Mashamba House, Westlands, Nairobi - 
             Kenya <br />
             <FaClock /> Mon - Fri: 8:00 AM - 5:00 PM, Sat: 9:00 AM - 1:00 PM
           </p>
 
           <p className="flex gap-2 items-center">
             {" "}
-            <FaPhoneAlt /> Call us on: 123-456-7890
+            <FaPhoneAlt /> Call us on: (+254)702 387 039
           </p>
         </div>
       </div>
@@ -44,7 +44,7 @@ const Navbar = () => {
               to={"/"}
               className="lg:text-2xl text-lg font-bold text-yellow-800"
             >
-              PrimePlots Realty
+              ShambaLako Ventures
             </Link>
           </div>
           {/* desktop navigation */}

@@ -35,7 +35,7 @@ const WhyChooseUs = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-2xl mx-auto mb-12" data-aos="fade-up">
           <span className="text-yellow-800 font-semibold uppercase text-sm tracking-wide">
-            Why PrimePlot Realty
+            Why ShambaLako Ventures
           </span>
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mt-2">
             Built On Trust, Driven By Results

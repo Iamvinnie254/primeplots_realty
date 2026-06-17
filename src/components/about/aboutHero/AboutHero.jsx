@@ -17,7 +17,7 @@ const AboutHero = () => {
           data-aos="fade-up"
           className="inline-block bg-yellow-800/90 text-white text-sm font-semibold tracking-wide uppercase px-4 py-1.5 rounded-full mb-5"
         >
-          About PrimePlot Realty
+          About ShambaLako Ventures
         </span>
         <h1
           data-aos="fade-up"

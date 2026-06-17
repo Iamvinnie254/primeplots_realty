@@ -81,9 +81,9 @@ const Footer = () => {
         <div className="sm:col-span-2 lg:col-span-1">
           <Link to="/" className="inline-flex items-center gap-2 mb-4">
             <span className="text-yellow-800 font-extrabold text-2xl tracking-tight">
-              PrimePlots
+              ShambaLako
             </span>
-            <span className="text-white font-light text-2xl">Realty</span>
+            <span className="text-white font-light text-2xl">Ventures</span>
           </Link>
           <p className="text-gray-400 text-sm leading-relaxed mb-6 max-w-xs">
             Helping individuals and families invest in verified, high-growth
@@ -152,25 +152,25 @@ const Footer = () => {
             <li className="flex items-start gap-3">
               <FaMapMarkerAlt className="text-yellow-800 mt-0.5 flex-shrink-0" />
               <span className="text-gray-400">
-                Westlands Business Park, Nairobi, Kenya
+                Westlands, Nairobi, Kenya
               </span>
             </li>
             <li className="flex items-start gap-3">
               <FaPhoneAlt className="text-yellow-800 mt-0.5 flex-shrink-0" />
               <a
-                href="tel:+254700000000"
+                href="tel:+254702387039"
                 className="text-gray-400 hover:text-yellow-600 transition-colors duration-300"
               >
-                +254 700 000 000
+                +254 702 387 039
               </a>
             </li>
             <li className="flex items-start gap-3">
               <FaEnvelope className="text-yellow-800 mt-0.5 flex-shrink-0" />
               <a
-                href="mailto:info@primeplotrealty.com"
+                href="mailto:info@shambalakoventures.com"
                 className="text-gray-400 hover:text-yellow-600 transition-colors duration-300"
               >
-                info@primeplotsrealty.com
+                info@shambalakoventures.com
               </a>
             </li>
           </ul>
@@ -180,7 +180,7 @@ const Footer = () => {
       {/* Bottom bar */}
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-500">
-          <p>© {year} PrimePlots Realty. All rights reserved.</p>
+          <p>© {year} ShambaLako Ventures. All rights reserved.</p>
           <p>
             Licensed Real Estate Consultancy — Estate Agents Registration Board,
             Kenya

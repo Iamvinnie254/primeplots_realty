@@ -1,1 +1,1 @@
-# Primeplots Realty - Your trusted real estate partner
+# ShambaLako Ventures - Your trusted real estate partner
